@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: (MIT or Apache-2.0)
 
 
-import ../sqlite_up
+import ../sqlite3_up
 import sqlite3_abi
 
 when (NimMajor, NimMinor) < (1, 4):

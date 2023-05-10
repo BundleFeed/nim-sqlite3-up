@@ -7,8 +7,8 @@
 
 import unittest
 
-import ../src/sqlite_up
-import ../src/sqlite_up/extension
+import ../src/sqlite3_up
+import ../src/sqlite3_up/extension
 import std/[tempfiles, os]
 
 suite "Simple integrated tests":
